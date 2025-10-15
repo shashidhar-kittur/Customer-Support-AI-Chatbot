@@ -1,8 +1,11 @@
-<xaiArtifact artifact_id="7747d092-9b7f-4e25-9545-1e84fbceec32" artifact_version_id="5e900637-7127-46e5-804d-978815f0783c" title="README.md" contentType="text/markdown">
-
+<xaiArtifact artifact_id="7747d092-9b7f-4e25-9545-1e84fbceec32" artifact_version_id="5e900637-7127-46e5-804d-978815f0783c" title="README.md" contentType="text/markdown">   
+   
 # AI Customer Support Bot
 
 This repository contains an AI-powered customer support bot designed to handle FAQs, maintain conversation context, and escalate unresolved queries. It fulfills the requirements for a simulated customer support system with a backend API, LLM integration, and session tracking. An optional frontend is included for interactive testing.
+## Demo Video
+Watch the demo video to see the AI Customer Support Bot in action:  
+https://youtu.be/CmRiOOGUFnE?si=lnZbFyCYMNLnGiXw 
 
 ## Features
 - **FAQ Handling**: Responds to queries using a predefined FAQs dataset.
