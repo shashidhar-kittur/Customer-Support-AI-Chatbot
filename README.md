@@ -39,11 +39,11 @@ project/
    ```
 
 3. **Set Up Environment**:
-   Create a `.env` file or set the OpenAI API key:
+   Create a `.env` file or set the Gemini flash 2.5 API key:
    ```bash
-   export OPENAI_API_KEY="your-api-key"
+   export GEMINI_API_KEY="your-api-key"
    ```
-   Replace `"your-api-key"` with your actual OpenAI API key (get from https://platform.openai.com).
+   Replace `"your-api-key"` with your actual Gemini API key (get from [https://aistudio.google.com/](https://aistudio.google.com/apikey)).
 
 4. **Prepare FAQs Dataset**:
    The `data/faqs.json` file contains sample FAQs. Modify it as needed for your use case.
